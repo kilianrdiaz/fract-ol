@@ -6,11 +6,11 @@
 /*   By: kroyo-di <marvin@42.fr>                    +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2024/12/04 18:05:35 by kroyo-di          #+#    #+#             */
-/*   Updated: 2024/12/04 18:06:49 by kroyo-di         ###   ########.fr       */
+/*   Updated: 2025/01/07 20:00:24 by kroyo-di         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
-int		ft_strcmp(char *s1, char *s2)
+int	ft_strcmp(char *s1, char *s2)
 {
 	int	i;
 
